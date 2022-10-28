@@ -1,0 +1,47 @@
+body
+{
+    background: url("background.png") no-repeat center fixed;
+    background-size:cover;
+    margin: 50px;
+    font-size:large;
+}
+
+a 
+{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+}
+.menu
+{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.link
+{
+    display: flex;
+    justify-content: space-between;
+}
+input
+{
+    background: none;
+    width: 100px;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    text-align: center;
+}
+
+.assetbutton
+{
+    background-color: transparent;
+    border: none;
+    font-size: x-large;
+}
+
+
+
